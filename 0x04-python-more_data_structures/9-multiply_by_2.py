@@ -4,6 +4,3 @@ def multiply_by_2(my_dict):
     for x in tmp_dict.keys():
         tmp_dict[x] *= 2
     return (tmp_dict)
-
-    © 2021 GitHub, Inc.
-
